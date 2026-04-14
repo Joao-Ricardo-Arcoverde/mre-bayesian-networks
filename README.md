@@ -4,7 +4,7 @@ Implementação em Python do paper de Yuan, Lim e Lu (2011), desenvolvida como p
 
 > Yuan, C., Lim, H., & Lu, T.-C. (2011). **Most Relevant Explanation in Bayesian Networks**.
 > *Journal of Artificial Intelligence Research*, 42, 309–352.
-> [https://doi.org/10.1613/jair.3301](https://doi.org/10.1613/jair.3301)
+> [https://arxiv.org/abs/1401.3893](https://arxiv.org/abs/1401.3893)
 
 ---
 
